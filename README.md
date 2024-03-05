@@ -1,8 +1,10 @@
 # EveryDay
 
-如果觉得不错，点个`star`吧 😃  
+[Github](https://github.com/WindrunnerMax/EveryDay) ｜ [Timeline](https://github.com/WindrunnerMax/EveryDay/blob/master/CATALOG.md) ｜ [Blog](https://blog.touchczy.top/) ｜ [Blog-SSG](https://blog-ssg.touchczy.top/)
 
-这是一个前端小白的学习历程，如果只学习而不记录点什么那基本就等于白学了。这个版本库的名字`EveryDay`就是希望激励我能够每天学习，下面的文章就是从`2020.02.25`开始积累的文章，都是参考众多文章归纳整理学习而写的，文章包括了`HTML`基础、`CSS`基础、`JavaScript`基础与拓展、`Browser`浏览器相关、`Vue`使用与分析、`React`使用与分析、`Plugin`插件相关、`Patterns`设计模式、`Linux`命令、`LeetCode`题解等类别，内容都是比较基础的，毕竟我也还是个小白，此外基本上每个示例都是本着能够即时运行为目标的，新建一个`html`文件复制之后即可在浏览器运行或者直接可以在`console`中运行。如果想按照我写的顺序进行阅读的话可以 [查看目录](https://github.com/WindrunnerMax/EveryDay/blob/master/CATALOG.md) ，另外如果想更条理地查看的话可以访问 [我的博客](https://blog.touchczy.top/)，博客同时也是本版本库的`gh-pages`分支，是作为纯静态页面搭建在`Git Pages`上的，使用`jsdelivr`以及`cloudflare`作为缓存缓解国内访问速度问题，在博客中的内容就相对比较多了，除了学习笔记之外还有一些做项目时的记录以及遇到的坑等。`HXDM`如果觉得不错，点个`star`吧，这个对我真的很重要。
+如果觉得不错，点个`star`吧 😁   
+
+这是一个前端小白的学习历程，如果只学习而不记录点什么那基本就等于白学了。这个版本库的名字`EveryDay`就是希望激励我能够每天学习，下面的文章就是从`2020.02.25`开始积累的文章，都是参考众多文章归纳整理学习而写的，文章包括了`HTML`基础、`CSS`基础、`JavaScript`基础与拓展、`Browser`浏览器相关、`Vue`使用与分析、`React`使用与分析、`Plugin`插件相关、`Patterns`设计模式、`Linux`命令、`LeetCode`题解等类别，内容都是比较基础的，毕竟我也还是个小白，此外基本上每个示例都是本着能够即时运行为目标的，新建一个`html`文件复制之后即可在浏览器运行或者直接可以在`console`中运行。如果想按照我写的顺序进行阅读的话可以 [查看目录](https://github.com/WindrunnerMax/EveryDay/blob/master/CATALOG.md) ，另外如果想更条理地查看的话可以访问 [我的博客](https://blog.touchczy.top/)，博客同时也是本版本库的`gh-pages`分支，是作为纯静态页面搭建在`Git Pages`上的，使用`jsdelivr`以及`cloudflare`作为缓存缓解国内访问速度问题。后期还在`gh-pages-ssg`分支上部署了`SSG`版本的 [新版博客](https://blog-ssg.touchczy.top/)，并且借助`ChatGPT`提供了英文翻译版本，分支是部署在`Vercel`上来缓解国内访问速度问题。在博客中的内容就相对比较多了，除了学习笔记之外还有一些做项目时的记录以及遇到的坑等。`HXDM`如果觉得不错，点个`star`吧，这个对我真的很重要。
 
 
 ## HTML
@@ -240,6 +242,7 @@
 * [Hooks与普通函数的区别](React/Hooks与普通函数的区别.md)
 * [Hooks与事件绑定](React/Hooks与事件绑定.md)
 * [React闭包陷阱](React/React闭包陷阱.md)
+* [ReactPortals传送门](React/ReactPortals传送门.md)
 
 ## Plugin
 * [Git常用命令](Plugin/Git常用命令.md)
@@ -262,6 +265,11 @@
 * [初探富文本之CRDT协同实例](Plugin/初探富文本之CRDT协同实例.md)
 * [基于drawio构建流程图编辑器](Plugin/基于drawio构建流程图编辑器.md)
 * [从零实现的Chrome扩展](Plugin/从零实现的Chrome扩展.md)
+* [初探富文本之React实时预览](Plugin/初探富文本之React实时预览.md)
+* [从零实现的浏览器Web脚本](Plugin/从零实现的浏览器Web脚本.md)
+* [初探webpack之单应用多端构建](Plugin/初探webpack之单应用多端构建.md)
+* [基于WebRTC的局域网文件传输](Plugin/基于WebRTC的局域网文件传输.md)
+* [初探富文本之文档diff算法](Plugin/初探富文本之文档diff算法.md)
 
 ## Patterns
 * [简单工厂模式](Patterns/简单工厂模式.md)
